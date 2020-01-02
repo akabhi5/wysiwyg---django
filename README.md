@@ -1,4 +1,4 @@
-WYSIWYG in django - CKEDITOR
+# WYSIWYG in django - CKEDITOR
 
 https://django-ckeditor.readthedocs.io/
 
